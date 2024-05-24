@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Crossbow",
+		"name": "Crossbow Monkey",
 		"unitType": "Ranged",
 		"uniqueTo": "BTD6",
 		"replaces": "Archer",
@@ -8,8 +8,20 @@
 		"strength": 0,
 		"rangedStrength": 10,
 		"range": 3,
-		"cost": 40,
+		"cost": 50,
 		"requiredTech": "Archery",
 		"promotions": ["Logistics","Accuracy I"],
-	}
+	},
+	{
+		"name": "Dart Monkey",
+		"unitType": "Ranged",
+		"uniqueTo": "BTD6",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 3,
+		"range": 2,
+		"cost": 40,
+		"promotions": ["Logistics","Accuracy I"],
+	},
 ]
