@@ -15,16 +15,16 @@
 		"introduction": "Are you kidding me? Nothing gets past my bow!",
 		
 		"neutralHello": "Yes?",
-		"neutralLetsHearIt": ["Yeah?",What next?"],
+		"neutralLetsHearIt": ["Yeah?","What next?"],
 		"neutralNo": ["Seriously?","No!"],
-		"neutralYes": ["Nice!",Yes!"],
+		"neutralYes": ["Nice!","Yes!"],
 
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["Oh, come on!","Seriously?","Is that all you got?"],
 		"hateYes": "That is fine.",
 		
-		"afterPeace": ["Nice!",Yes!"],
+		"afterPeace": ["Nice!","Yes!"],
 		"tradeRequest": "It's a pleasure.",
 
 		"outerColor": [16,16,16],
