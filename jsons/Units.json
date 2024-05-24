@@ -25,4 +25,19 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"unique": "Can move after attacking",
 	},
+	{
+		"name": "Bloontonium Missile",
+		"unitType": "Missile",
+		"uniqueTo": "BTD6",
+		"movement": 1,
+		"strength": 400,
+		"rangedStrength": 400,
+		"range": 20,
+		"cost": 2000,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": [
+			"Never appears as a Barbarian unit",
+			"Blast radius [7]"
+		],
+	},
 ]
