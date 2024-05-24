@@ -23,5 +23,6 @@
 		"range": 2,
 		"cost": 40,
 		"promotions": ["Logistics","Accuracy I"],
+		"unique": "Can move after attacking",
 	},
 ]
