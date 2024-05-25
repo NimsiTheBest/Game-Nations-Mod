@@ -7,5 +7,11 @@
 		"happiness": 3,
 		"maintenance": 1,
 		"requiredTech": "Steel"
+	        "requiredBuilding": "Barracks",
+	        "uniques": [
+	            "New [Military] units start with [15] Experience [in this city]",
+		    "New [Military] units start with [15] Experience [in this city] <when above [5] Happiness>",
+	            "Destroyed when the city is captured"
+	        ],	
 	},
 ]
