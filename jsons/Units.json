@@ -27,7 +27,7 @@
 	},
 	{
 		"name": "Bloontonium Missile",
-		"unitType": "Missile",
+		"unitType": "Nuclear Weapon",
 		"uniqueTo": "BTD6",
 		"movement": 1,
 		"strength": 400,
@@ -37,7 +37,25 @@
 		"requiredTech": "Advanced Ballistics",
 		"uniques": [
 			"Never appears as a Barbarian unit",
-			"Blast radius [7]"
+			"Nuclear weapon of Strength [7]"
+		],
+	},
+	{
+		"name": "Anti-Bloon",
+		"unitType": "Ranged",
+		"uniqueTo": "BTD6",
+		"replaces": "Giant Death Robot",
+		"movement": 7,
+		"strength": 200,
+		"rangedStrength": 120,
+		"range": 3,
+		"cost": 525,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": [
+			"Can move after attacking",
+			"Can carry [4] [Nuclear Weapon] units",
+			"[+100]% Strength <vs [Air] units> <when attacking>",
+			"[+100]% chance to intercept air attacks"
 		],
 	},
 ]
