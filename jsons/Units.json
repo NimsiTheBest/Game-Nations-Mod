@@ -27,7 +27,7 @@
 	},
 	{
 		"name": "Bloontonium Missile",
-		"unitType": "Nuclear Weapon",
+		"unitType": "Missile",
 		"uniqueTo": "BTD6",
 		"movement": 1,
 		"strength": 400,
@@ -53,7 +53,7 @@
 		"requiredTech": "Advanced Ballistics",
 		"uniques": [
 			"Can move after attacking",
-			"Can carry [4] [Nuclear Weapon] units",
+			"Can carry [4] [Missile] units",
 			"[+100]% Strength <vs [Air] units> <when attacking>",
 			"[+100]% chance to intercept air attacks"
 		],
