@@ -1,4 +1,4 @@
-[
+/*[
 	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
@@ -22,4 +22,4 @@
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
-]
+]*/
