@@ -5,7 +5,7 @@
 		"uniqueTo": "BTD6",
 		"replaces": "Archer",
 		"movement": 2,
-		"strength": 0,
+		"strength": 5,
 		"rangedStrength": 10,
 		"range": 3,
 		"cost": 50,
